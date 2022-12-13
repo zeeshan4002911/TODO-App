@@ -1,7 +1,9 @@
-# TODO Android App
-#### Video Demo:  <URL HERE>
+# TODO web and Android App
+#### Video Demo:  https://youtu.be/pLebGngssSY
 #### Description: 
 This is the Simple todo application which I intially build using Reactjs and then converted to android app for daily use.
+
+git page --> https://zeeshan4002911.github.io/TODO-App/
 
 ##### Key Features:
 
@@ -36,3 +38,6 @@ index.js is what uses that App.js and render it using react render method
 I've created the android version of the this TODO using ionic capacitor (https://capacitorjs.com) and android SDK for building android app.
 
 The android app is the go to when it comes to portability and use.
+
+android folder contains code for Android sdk
+Todo apk contains different version of apk
