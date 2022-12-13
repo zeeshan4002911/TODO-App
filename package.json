@@ -2,6 +2,7 @@
   "name": "todo-app",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://zeeshan4002911.github.io/TODO-App",
   "dependencies": {
     "@capacitor/android": "4.6.1",
     "@capacitor/core": "^4.6.1",
