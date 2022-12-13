@@ -1,7 +1,7 @@
 # TODO Android App
 #### Video Demo:  <URL HERE>
 #### Description: 
-    This is the Simple todo application which I intially build using Reactjs and then converted to android app for daily use.
+This is the Simple todo application which I intially build using Reactjs and then converted to android app for daily use.
 
 ##### Key Features:
 
@@ -23,9 +23,7 @@ components --->
     4) TaskList is responsible for propulating the tasks, it uses javascript map function
 
 hooks --> It contains custom hook, useLocalStorage which basically takes two argument name and value for setting and getting
-        that name, value in local storage in key value pair
-
-        It returns a value and a function by which we can set that value like react hooks, it uses react useState and useEffect hook to achieve this local database
+        that name, value in local storage in key value pair, it returns a value and a function by which we can set that value like react hooks, it uses react useState and useEffect hook to achieve this local database
 
 styles --> It contains css for the app
 App.js is the main file where we conditionally render our component and pass state and function to other component by
